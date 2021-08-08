@@ -1,0 +1,30 @@
+{
+  "name": "ssl_queue",
+  "version": "1.0.0",
+  "description": "A JavaScript implementation of a Queue data structure using ES2015 class syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyGamiMarques/SinglyLinkedListQueue.git"
+  },
+  "keywords": [
+    "Data",
+    "Structure",
+    "Queue",
+    "Implementation"
+  ],
+  "author": "Bradley Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleyGamiMarques/SinglyLinkedListQueue/issues"
+  },
+  "homepage": "https://github.com/bradleyGamiMarques/SinglyLinkedListQueue#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
